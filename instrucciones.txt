@@ -1,0 +1,9 @@
+ADD R4, r5
+add r2, 5
+add [r6],r1
+add [r1+3], r4
+add r4, [r3]
+add r2, [r1+1]
+add [r3], [r7]
+mul [r1+2], [r6]
+jump hola
